@@ -1,12 +1,12 @@
 [gd_scene load_steps=15 format=3 uid="uid://cbeqw41pftw0c"]
 
-[ext_resource type="PackedScene" uid="uid://c7r4s0gbqx0xo" path="res://player.tscn" id="1_2k0mw"]
+[ext_resource type="PackedScene" uid="uid://c7r4s0gbqx0xo" path="res://scenes/player.tscn" id="1_2k0mw"]
 [ext_resource type="Texture2D" uid="uid://dueg5ukd2biox" path="res://tiles/world_tileset.png" id="2_itbkk"]
 [ext_resource type="Texture2D" uid="uid://cg8kj7qtas63m" path="res://tiles/platforms.png" id="2_uua7k"]
-[ext_resource type="PackedScene" uid="uid://bl26qm6q00jg3" path="res://platform.tscn" id="4_i7p3o"]
-[ext_resource type="PackedScene" uid="uid://1h8ch6q3ofms" path="res://coin.tscn" id="5_kwjg0"]
-[ext_resource type="PackedScene" uid="uid://bupy8l6xom02w" path="res://killzone.tscn" id="6_gohwr"]
-[ext_resource type="PackedScene" uid="uid://cebkxmwh30prk" path="res://root_enemy.tscn" id="7_lwvwb"]
+[ext_resource type="PackedScene" uid="uid://bl26qm6q00jg3" path="res://scenes/platform.tscn" id="4_i7p3o"]
+[ext_resource type="PackedScene" uid="uid://1h8ch6q3ofms" path="res://scenes/coin.tscn" id="5_kwjg0"]
+[ext_resource type="PackedScene" uid="uid://bupy8l6xom02w" path="res://scenes/killzone.tscn" id="6_gohwr"]
+[ext_resource type="PackedScene" uid="uid://cebkxmwh30prk" path="res://scenes/root_enemy.tscn" id="7_lwvwb"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_pv1j8"]
 texture = ExtResource("2_uua7k")
